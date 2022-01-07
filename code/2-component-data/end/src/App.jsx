@@ -1,6 +1,10 @@
 import './index.css'
 import React from 'react';
+
+// TODO: Import RecipeTitle
 import RecipeTitle from './RecipeTitle'
+
+// TODO: Import IngredientList
 import IngredientList from './IngredientList'
 
 function App() {
