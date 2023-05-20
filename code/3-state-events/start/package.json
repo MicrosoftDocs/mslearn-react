@@ -4,8 +4,8 @@
       "build": "snowpack build"
     },
     "dependencies": {
-      "react": "^17.0.2",
-      "react-dom": "^17.0.2"
+      "react": "^18.0.2",
+      "react-dom": "^18.0.2"
     },
     "devDependencies": {
       "snowpack": "^3.8.8"
